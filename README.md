@@ -7,9 +7,9 @@ Market: SF
 
 # Make a Gist!
 
-As a way to review this week's materials, we're going to create some documentation that will be public on GitHub.
+As a way to review this week's materials, we're going to create some documentation that will be public on GitHub. 
 
-Write a Gist that could help a WDI developer entering the week that you just finished!
+Write a Gist that could help a WDI developer entering the week that you just finished! Add a link to your Gist to this [Google doc](https://docs.google.com/document/d/1mEB-nSkpVlLayxOFKD5Ftc94TtmWQGngxRH4EKfcMXY/edit)!
 
 ### Possible topics
 
